@@ -4,9 +4,7 @@ Web Designers Android Clock
 First little experiment about Android Development.
 Made with a lot of fun for this [TreeHouse Forum Contest](https://teamtreehouse.com/forum/forum-contest-build-an-android-clock-app-2)
 
-![Screen0](https://raw.githubusercontent.com/remi-bruguier/webdesign-clock/master/screenshots/screen0.png)
-![Screen1](https://raw.githubusercontent.com/remi-bruguier/webdesign-clock/master/screenshots/screen1.png)
-![Screen2](https://raw.githubusercontent.com/remi-bruguier/webdesign-clock/master/screenshots/screen2.png)
+![Screenshots](http://i.imgur.com/w907Xdb.png)
 
 Just a Basic clock, with a few unusual features.
 
