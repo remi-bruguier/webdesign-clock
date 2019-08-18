@@ -6,12 +6,12 @@ Made with a lot of fun for this [TreeHouse Forum Contest](https://teamtreehouse.
 
 ![Screenshots](http://i.imgur.com/w907Xdb.png)
 
-Just a Basic clock, with a few unusual features.
+Just a basic clock, with a few unusual features.
 
 **Swipe to the left**: changes the background color with one picked from [flatuicolors.com](http://flatuicolors.com/)
 
 **Swipe to the right**: changes the font with one picked from [FontSquirrel](http://www.fontsquirrel.com/) amongst the most popular ones.
 
-**Shake your device** : Resets the background color and the font with a sound effet :3
+**Shake your device** : Resets the background color and the font with a sound effect :3
 
 Includes a custom launcher icon.
